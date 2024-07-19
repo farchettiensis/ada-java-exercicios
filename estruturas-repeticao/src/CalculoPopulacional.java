@@ -14,7 +14,7 @@ public class CalculoPopulacional {
         b) Média do número de filhos
         c) Maior salário dos habitantes
         d) Percentual de pessoas com salário menor que R$ 150,00
-        Obs.: O final da leituras dos dados se dará com a entrada de
+        Obs.: O final da leitura dos dados se dará com a entrada de
         um “salário negativo”.
         */
         ArrayList<Double> salarios = new ArrayList<>();
