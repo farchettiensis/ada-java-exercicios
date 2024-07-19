@@ -1,0 +1,33 @@
+Exercício 1: Qual modificador de acesso permite que um método seja acessado por qualquer classe em qualquer pacote?
+a) private
+b) public
+c) protected
+d) Nenhum modificador (sem especificação)
+
+Resposta: b) public.
+
+Exercício 2: Em relação à visibilidade, qual modificador de acesso restringe o acesso a um método apenas à classe onde ele está definido?
+a) private
+b) protected
+c) public
+d) Modificador padrão (default)
+
+Resposta: a) private.
+
+Exercício 3: Qual é o modificador de acesso que permite que um método seja acessível a classes no mesmo pacote e subclasses em qualquer pacote?
+a) public
+b) private
+c) protected
+d) Modificador padrão (default)
+
+Resposta: c) protected.
+
+Resposta:
+
+Exercício 4: Quando nenhum modificador de acesso é definido para um método em Java, qual modificador de acesso é aplicado implicitamente?
+a) public
+b) private
+c) protected
+d) Modificador padrão (default)
+
+Resposta: d) Modificador padrão (default).
