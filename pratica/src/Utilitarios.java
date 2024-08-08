@@ -51,7 +51,7 @@ public class Utilitarios {
     }
 
 
-    public static double converterEnergiaParaHumanos (double energia) {
+    public static double converterEnergiaParaHumanos(double energia) {
         return energia / ENERGIA_MEDIA_GERADA_POR_HUMANOS_GHW;
     }
 }
