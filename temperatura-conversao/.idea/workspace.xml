@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58dced1a-7dc3-497a-a890-1eb819bab8c3" name="Changes" comment="" />
+    <list default="true" id="58dced1a-7dc3-497a-a890-1eb819bab8c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../estruturas-selecao/src/EstruturasSelecao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../estruturas-selecao/src/EstruturasSelecao.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +58,7 @@
       <workItem from="1721260509805" duration="448000" />
       <workItem from="1721435170698" duration="1851000" />
       <workItem from="1722468782134" duration="57000" />
+      <workItem from="1723605650991" duration="9000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class EstruturasSelecao {
     public static void main(String[] args) {
-        // dada a nota informada por um alino, exiba se ele está aprovado (média >=7), em prova final (entre 6 e 6.9) ou reprovado (média abaixo de 6)
+        // dada a nota informada por um aluno, exiba se ele está aprovado (média >=7), em prova final (entre 6 e 6.9) ou reprovado (média abaixo de 6)
         Scanner scanner = new Scanner(System.in);
         double media;
 
