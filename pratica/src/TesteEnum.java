@@ -4,7 +4,7 @@ class TesteEnum {
 //        System.out.println(DiasDaSemana.values()[0]);
 
         String parametroLinhaDecomando = args[0];
-        int diaEscolhidoInt = Integer.valueOf(parametroLinhaDecomando);
+        int diaEscolhidoInt = Integer.parseInt(parametroLinhaDecomando);
 
         DiasDaSemana diaEscolhido = DiasDaSemana.values()[diaEscolhidoInt];
         exibeCardapio(diaEscolhido);
