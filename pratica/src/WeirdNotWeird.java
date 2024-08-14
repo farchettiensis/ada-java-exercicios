@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OddEven {
+public class WeirdNotWeird {
 
     private static final Scanner scanner = new Scanner(System.in);
 
