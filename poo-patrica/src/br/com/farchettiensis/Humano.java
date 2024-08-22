@@ -1,2 +1,4 @@
-package br.com.farchettiensis;public class Humano {
+package br.com.farchettiensis;
+
+public class Humano {
 }
