@@ -1,4 +1,4 @@
-package br.com.farchettiensis.aula1.oo;
+package br.com.farchettiensis.aula1;
 
 @SuppressWarnings("all")
 public class Humano {

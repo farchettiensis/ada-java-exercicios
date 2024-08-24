@@ -1,11 +1,11 @@
-package br.com.farchettiensis.aula1.oo;
+package br.com.farchettiensis.aula2;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Estudante {
-    String nome;
-    List<Double> notas;
+    private String nome;
+    private List<Double> notas;
 
     public Estudante() {
         this.notas = new ArrayList<>();
@@ -13,6 +13,18 @@ public class Estudante {
 
     public Estudante(List<Double> notas) {
         this.notas = notas;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public List<Double> getNotas() {
+        return notas;
     }
 
     public void adicionaNota(Double nota) {
@@ -27,5 +39,10 @@ public class Estudante {
         }
 
         return soma / notas.size();
+    }
+
+    public void printarNotas() {
+        notas.forEach(nota -> System.out.println());
+        notas.forEach(System.out::println);
     }
 }

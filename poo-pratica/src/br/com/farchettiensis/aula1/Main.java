@@ -1,4 +1,6 @@
-package br.com.farchettiensis.aula1.oo;
+package br.com.farchettiensis.aula1;
+
+import br.com.farchettiensis.aula2.Estudante;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +10,6 @@ public class Main {
         List<Double> notas = new ArrayList<>();
 
         Estudante estudante = new Estudante();
-        estudante.nome = "Jamil";
 
         estudante.adicionaNota(6d);
         estudante.adicionaNota(8d);
